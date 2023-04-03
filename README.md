@@ -1,0 +1,1 @@
+# wpnavigator-theme
